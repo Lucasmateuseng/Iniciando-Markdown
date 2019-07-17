@@ -31,10 +31,10 @@
 # Usando bloco de código
 ## Para deixar a anotação com formato de código temos que abrir um bloco com três backticks (“`) colocar o nome da linguagem e fechar com três backticks (“`).
 
-``javascript
+```javascript
 
 alert("ola, mundo ")
-```
+``` 
 # Usando blockquote ( citação )
 ## O markdown nos oferece uma maneira bem fácil de criar citações, basta utilizar > antes do texto e como resultado teremos:
 
